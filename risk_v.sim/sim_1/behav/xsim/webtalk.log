@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Webtalk v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Dec  7 04:31:16 2021
+# Process ID: 7792
+# Current directory: D:/facultate/an 3/sem 1/CN2/lab 2/risk_v/risk_v.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source D:/facultate/an 3/sem 1/CN2/lab 2/risk_v/risk_v.sim/sim_1/behav/xsim/xsim.dir/RISC_V_IF_ID_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: D:/facultate/an 3/sem 1/CN2/lab 2/risk_v/risk_v.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: D:/facultate/an 3/sem 1/CN2/lab 2/risk_v/risk_v.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source D:/facultate/an -notrace
+couldn't read file "D:/facultate/an": no such file or directory
+INFO: [Common 17-206] Exiting Webtalk at Tue Dec  7 04:31:16 2021...
